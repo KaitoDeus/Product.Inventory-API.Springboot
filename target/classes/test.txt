@@ -1,0 +1,12 @@
+{
+    "productName": "SmartWatch Z3",
+    "price": 149.99,
+    "quantity": 30,
+    "categoryId": 2
+}
+
+{ "email": "admin@system.com", "password": "admin123" }
+{ "email": "manager@system.com", "password": "manager123" }
+{ "email": "analyst@system.com", "password": "analyst123" }
+{ "email": "user1@system.com", "password": "user123" }
+{ "email": "blocked@system.com", "password": "nopass" }
